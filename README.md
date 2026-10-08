@@ -14,6 +14,8 @@ Abra http://127.0.0.1:5173/. Não há instalação de dependências nem etapa de
 
 Prévia pública: https://doispalitosmkt.github.io/ako-odonto-preview/ . O repositório `ako-odonto-preview` serve apenas para revisão pelo GitHub Pages; o código principal está em `doispalitosmkt/ako-odonto-lp`.
 
+Esta cópia de prévia usa `noindex` para não disputar os resultados de busca com o domínio da clínica. O Open Graph aponta para a própria URL da prévia, de modo que o link compartilhado continue levando à versão em revisão.
+
 ## Compartilhamento social
 
 Open Graph e Twitter Card usam uma imagem 1200 × 630 px criada a partir da fotografia real da Dra. Elza com o bebê. A URL da imagem aponta para a prévia pública, permitindo que as redes a carreguem antes da publicação no domínio definitivo. Na publicação final, esse endereço poderá ser trocado pelo mesmo arquivo em `akoodonto.com`.
